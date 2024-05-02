@@ -7,4 +7,4 @@
 
 <h3 align="left">Idiomas y herramientas:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-https://github-profile-trophy.vercel.app/?username=eyeb4gs-ma&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=eyeb4gs-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
