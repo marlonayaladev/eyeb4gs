@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">▪️ 🎯 Actualmente desarrollando nuevos proyectos<br><br>▪️ 📚 Aprendiendo nuevos lenguajes<br><br>▪️ ⚙️ Aplicando automatización de tareas<br><br>▪️ 📊 Implementando bases de datos</h5>
+<p align="left">▪️ 🎯 Actualmente desarrollando nuevos proyectos<br><br>▪️ 📚 Aprendiendo nuevos lenguajes<br><br>▪️ ⚙️ Aplicando automatización de tareas<br><br>▪️ 📊 Implementando bases de datos</p>
 
 ###
 
